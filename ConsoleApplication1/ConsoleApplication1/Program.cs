@@ -11,6 +11,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //test a comment
+
+            int var = 0; 
+
         }
     }
 }
